@@ -1,3 +1,4 @@
+Edited by prasadsing
 # delta-node
 
 Delta node is the node in the distributed delta network. 
